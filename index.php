@@ -12,7 +12,7 @@
     <div class="container">
 
         <p class="title_task">Задание 1. Таблица истинности PHP</p>
-        <table class="center" border="1" cellpadding="5" cellspacing="5">
+        <table class="center" cellpadding="5" cellspacing="5">
             <thead>
                 <tr>
                     <th>A</th>
@@ -84,7 +84,7 @@
 
 
         <p class="description">гибкое сравнение ==</p>
-        <table class="center" border="1" cellpadding="5" cellspacing="5">
+        <table class="center" cellpadding="5" cellspacing="5">
             <thead>
                 <tr>
                     <th></th>
